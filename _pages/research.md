@@ -32,7 +32,7 @@ We propose a nonparametric test for the null hypothesis of almost stochastic dom
 # <center> Work in Progress </center>
 - - -
 **Diagnostic Global Game: Theory and Experiment** (with [Syngjoo Choi][choisj] and [Jeongbin Kim][kimjb]). 2022. <br/>
-<small>[ <a href="#/" onclick="visib('DGG')">Abstract</a> | [Draft][DGG_draft] ]</small>
+<small>[ <a href="#/" onclick="visib('DGG')">Abstract</a> ]</small>
 
 <div id="DGG" style="display: none; text-align: justify; line-height: 1.2" ><small>
 We introduce diagnostic expectations into a standard coordination game with incomplete information called global game. Diagnostic expectations proposed by Bordalo et al. (2018) capture excess volatility in belief updating. The equilibrium threshold and uniqueness conditions change compared with the benchmark global game with Bayesian updating due to diagnosticity. We test diagnostic expectations in a belief updating problem and predictions of the diagnostic global game model experimentally. In our experimental design, we include a novel treatment to capture the mechanism behind diagnostic expectation, motivated by the micro-foundation of diagnostic expectations in Bordalo et al. (2022).
