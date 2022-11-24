@@ -5,7 +5,7 @@ permalink: /research/
 author_profile: true
 ---
 
-{% if author.googlescholar %}
+<!-- {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 {% endif %}
 
@@ -13,9 +13,12 @@ author_profile: true
 
 {% for post in site.publications reversed %}
   {% include archive-single.html %}
-{% endfor %}
+{% endfor %} -->
+
+<br/>
 
 # <center> Working Papers </center>
+- - -
 **Testing for Almost Stochastic Dominance** (with [Yoon-Jae Whang][whangyj]). 2022. <br/>
 <small>[ <a href="#/" onclick="visib('ATSD')">Abstract</a> | [Draft][ATSD_draft] ]</small>
 
@@ -27,6 +30,7 @@ We propose a nonparametric test for the null hypothesis of almost stochastic dom
 [whangyj]: https://sites.google.com/site/whangyjhomepage/
 
 # <center> Work in Progress </center>
+- - -
 **Diagnostic Global Game: Theory and Experiment** (with [Syngjoo Choi][choisj] and [Jeongbin Kim][kimjb]). 2022. <br/>
 <small>[ <a href="#/" onclick="visib('DGG')">Abstract</a> | [Draft][DGG_draft] ]</small>
 
@@ -37,3 +41,17 @@ We introduce diagnostic expectations into a standard coordination game with inco
 [DGG_draft]:{{ site.baseurl }}{% link /files/DGG_draft.pdf %}
 [choisj]: https://sites.google.com/site/syngjoochoi/
 [kimjb]: https://sites.google.com/site/jbkimecon/
+
+[//]: This java script is the button to show abstract
+<script>
+ function visib(id) {
+  var x = document.getElementById(id);
+  if (x.style.display === "block") {
+    x.style.display = "none";
+  } else {
+    x.style.display = "block";
+  }
+}
+</script>
+
+[//]:&emsp;<button onclick="visib('polariz')" class="btn btn--inverse btn--small">Abstract</button>
