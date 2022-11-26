@@ -8,9 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to my homepage!
-I am a Ph.D. applicant in economics for the 2023-2024 cycle.
+Welcome to my homepage! I am an economics Ph.D. applicant for the 2023-2024 cycle.
 
-My fields of interests lie broadly in theoretical and applied econometrics, macroeconomics, behavioral economics, and experimental economics. I am especially interested in the topic of expectation formation in economics.
+My fields of interests include theoretical and applied econometrics, behavioral economics, macroeconomics, and experimental economics. I am especially interested in the topic of expectation formation in economics.
 
-I hold a B.A. in Economics and a B.S. in Mathematics from Seoul National University (2021). I am expecting an M.A. in Economics from Seoul National University (2023).
+I hold a B.A. in Economics and a B.S. in Mathematical Sciences from Seoul National University (2021). I am currently an economics M.A. student at Seoul National University.
