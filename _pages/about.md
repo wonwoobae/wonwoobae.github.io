@@ -14,9 +14,6 @@ My research interests are in theoretical and applied econometrics, with a specia
 
 You can find my CV [here].
 
-
-
-
 # Working Papers
 - - -
 **[Testing for Almost Stochastic Dominance]** (with Yoon-Jae Whang). 2023.
