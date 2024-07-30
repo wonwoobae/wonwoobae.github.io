@@ -10,9 +10,12 @@ redirect_from:
 
 I am a Ph.D. student in economics at Yale.
 
-My research interests are in theoretical and applied econometrics with a focus on machine learning. I am also interested in applied questions in macroeconomics.
+My research interests are in theoretical and applied econometrics, with a special interest in its intersection with machine learning. I am also interested in empirical questions in macroeconomics.
 
 You can find my CV [here].
+
+
+
 
 # Working Papers
 - - -
