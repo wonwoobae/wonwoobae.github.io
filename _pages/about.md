@@ -17,3 +17,6 @@ You can find my CV [here].
 # Working Papers
 - - -
 **[Testing for Almost Stochastic Dominance]** (with Yoon-Jae Whang). 2023.
+
+[here]:{{ site.baseurl }}{% link /files/CV_Wonwoo_Bae.pdf %}
+[Testing for Almost Stochastic Dominance]:{{ site.baseurl }}{% link /files/ATSD_draft.pdf %}

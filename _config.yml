@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : #"Wonwoo Bae"
+title                    : "Wonwoo Bae"
 title_separator          : "-"
 name                     : &name "Wonwoo Bae"
 description              : &description "personal description"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Wonwoo Bae"
+  name             : #"Wonwoo Bae"
   avatar           : "Profile.jpg"
   bio              : ""
   location         : "New Haven, CT 06510"
