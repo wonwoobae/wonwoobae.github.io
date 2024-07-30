@@ -83,11 +83,11 @@ author:
   name             : "Wonwoo Bae"
   avatar           : "Profile.jpg"
   bio              : ""
-  location         : "Seoul, Korea"
+  location         : "New Haven, CT 06510"
   employer         :
   pubmed           :
   googlescholar    :
-  email            : "bww1016@snu.ac.kr"
+  email            : "wonwoo.bae@yale.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -115,6 +115,7 @@ author:
   xing             :
   youtube          :
   wikipedia        :
+  linkedin         : linkedin.com/in/wonwoo-bae-a93b8731b
 
 
 # Reading Files

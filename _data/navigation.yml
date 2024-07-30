@@ -1,10 +1,10 @@
 # main links links
 main:
-  - title: "Research"
-    url: /research/
+  # - title: "Research"
+  #   url: /research/
 
   # - title: "Teaching"
   #   url: /teaching/
 
-  - title: "CV"
-    url: /files/CV_Wonwoo_Bae.pdf
+  # - title: "CV"
+  #   url: /files/CV_Wonwoo_Bae.pdf
