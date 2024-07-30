@@ -15,7 +15,7 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %} -->
 
-<br/>
+<!-- <br/>
 
 # <center> Working Papers </center>
 - - -
@@ -63,4 +63,4 @@ We introduce diagnostic expectations into a standard coordination game with inco
 }
 </script>
 
-[//]:&emsp;<button onclick="visib('polariz')" class="btn btn--inverse btn--small">Abstract</button>
+[//]:&emsp;<button onclick="visib('polariz')" class="btn btn--inverse btn--small">Abstract</button> -->
