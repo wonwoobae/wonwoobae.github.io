@@ -25,3 +25,17 @@ We propose a nonparametric test for the null hypothesis of almost stochastic dom
 
 [here]:{{ site.baseurl }}{% link /files/CV_Wonwoo_Bae.pdf %}
 [Testing for Almost Stochastic Dominance]:{{ site.baseurl }}{% link /files/ATSD_draft.pdf %}
+
+[//]: This java script is the button to show abstract
+<script>
+ function visib(id) {
+  var x = document.getElementById(id);
+  if (x.style.display === "block") {
+    x.style.display = "none";
+  } else {
+    x.style.display = "block";
+  }
+}
+</script>
+
+[//]:&emsp;<button onclick="visib('polariz')" class="btn btn--inverse btn--small">Abstract</button>
