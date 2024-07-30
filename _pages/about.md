@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Wonwoo Bae"
+title: # "Wonwoo Bae"
 excerpt: "About me"
 author_profile: true
 redirect_from:
@@ -16,7 +16,7 @@ You can find my CV [here].
 
 # Working Papers
 - - -
-**[Testing for Almost Stochastic Dominance]** (with Yoon-Jae Whang). 2023. <br/>
+**[Testing for Almost Stochastic Dominance]** (with Yoon-Jae Whang[whangyj]). 2023. <br/>
 <!-- <small>><a href="#/" onclick="visib('ATSD')">>Abstract</a></small>
 
 <div id="ATSD" style="display: none; text-align: justify; line-height: 1.2" ><small>
@@ -36,6 +36,6 @@ We propose a nonparametric test for the null hypothesis of almost stochastic dom
     x.style.display = "block";
   }
 }
-</script> -->
+</script>
 
-[//]:&emsp;<button onclick="visib('polariz')" class="btn btn--inverse btn--small">>Abstract</button>
+[//]:&emsp;<button onclick="visib('polariz')" class="btn btn--inverse btn--small">>Abstract</button> -->
